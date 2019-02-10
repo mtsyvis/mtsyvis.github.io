@@ -1,9 +1,9 @@
 # Site settings
-name: Javier Bermejo
-email: javierbmetal@gmail.com.com
+name: Misha Tsyvis
+#email: javierbmetal@gmail.com.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, C/C++, C#, Agile, Pair Programming"
-skills: "Software Engineer in Madrid, Spain"
+keywords: "Future Software Engineer, C/C++, C#"
+skills: "Student of BSUIR"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -12,7 +12,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/javi-bermejo/
   - title: github
-    url: https://github.com/Harashen
+    url: https://github.com/mtsyvis
     
 # Google webmaster tools
 google_verify:
